@@ -1,0 +1,12 @@
+medion.watchdog.volume.limit=6
+persist.device_config.runtime_native.usap_pool_enabled=false
+persist.sys.timezone=Europe/Berlin
+ro.com.google.acsa=true
+ro.com.google.clientidbase=android-lenovogroup
+ro.com.google.clientidbase.ms=android-lenovogroup.rvox
+ro.com.google.gmsversion=11_202203
+ro.config.notification_sound=F1_New_MMS.ogg
+ro.opa.eligible_device=true
+ro.product.device_group=medion_j1018d
+ro.setupwizard.rotation_locked=false
+setupwizard.theme=glif_v3_light
